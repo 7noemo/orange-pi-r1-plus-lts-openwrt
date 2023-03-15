@@ -12,3 +12,6 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go
+git clone https://github.com/Django9264/luci-app-cloudflarespeedtest.git package/cloudflarespeedtest
+git clone https://github.com/ToDesk/luci-app-GoWebDav.git package/go-webdav
