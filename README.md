@@ -20,3 +20,4 @@ luci-app-turboacc
 luci-app-upnp
 
 ## 刷入前请备份重要数据
+默认登陆IP 192.168.1.1 密码 password
