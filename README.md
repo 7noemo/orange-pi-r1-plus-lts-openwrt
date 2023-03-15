@@ -1,4 +1,4 @@
-##简单说明
+## 简单说明
 此云编译OpenWrt固件仅适用于 orange pi r1 plus lts
 包含插件：
 1.lede基础插件
@@ -18,4 +18,5 @@ luci-app-syncdial
 luci-app-ttyd
 luci-app-turboacc
 luci-app-upnp
-![image](https://user-images.githubusercontent.com/103473489/225376607-9538b6b2-b6ed-43f4-9828-82665a71563c.png)
+
+## 刷入前请备份重要数据
