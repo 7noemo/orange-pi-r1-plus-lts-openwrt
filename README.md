@@ -4,7 +4,6 @@
 1.lede基础插件
 2.其他自定义插件
 
-luci-app-alist
 luci-app-aria2
 luci-app-cloudflarespeedtest
 luci-app-cpufreq
@@ -18,6 +17,7 @@ luci-app-syncdial
 luci-app-ttyd
 luci-app-turboacc
 luci-app-upnp
-
+---
+移除 luci-app-alist
 ## 刷入前请备份重要数据
 默认登陆IP 192.168.1.1 密码 password
