@@ -19,6 +19,6 @@ luci-app-ttyd
 luci-app-turboacc
 luci-app-upnp
 ---
-移除 luci-app-alist 手动安装地址：https://github.com/sbwml/luci-app-alist
+移除 luci-app-alist 手动安装地址：[https://github.com/sbwml/luci-app-alist](https://github.com/sbwml/luci-app-alist){target="_blank"}
 ## 刷入前请备份重要数据
 默认登陆IP 192.168.1.1 密码 password
